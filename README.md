@@ -16,7 +16,7 @@ Some clips of the agent trained using MuZero in action are shown below.
 
 The algorithms were evaluated on a selected overworld level. The number of training epochs were limited by the available computational power. For more details, such as hyper-parameter tuning, please refer to the [project report](https://github.com/sreeharshau/muzero-super-mario-bros/blob/main/Evaluating_MuZero_Super_Mario_Bros.pdf)
 
-[!MuZero_vs_DDQN](https://github.com/sreeharshau/muzero-super-mario-bros/blob/main/MuZero_vs_DDQN.png)
+![MuZero_vs_DDQN](https://github.com/sreeharshau/muzero-super-mario-bros/blob/main/MuZero_vs_DDQN.png)
 
 # Full Project Report
 

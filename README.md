@@ -26,4 +26,4 @@ The full project report can be found [here](https://github.com/sreeharshau/muzer
 
 Please use the following citation when referring to any results from the repository or the report:
 
-Udayashankar, S., 2022. Evaluating MuZero on Super Mario Bros. [online] GitHub. Available at: <https://github.com/sreeharshau/muzero-super-mario-bros/blob/main/Evaluating_MuZero_Super_Mario_Bros.pdf>.
+_Udayashankar, S., 2022. Evaluating MuZero on Super Mario Bros. [online] GitHub._ 

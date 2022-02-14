@@ -10,7 +10,7 @@ Some clips of the agent trained using MuZero in action are shown below.
 
 
 # System Architecture
-![MuZero_Architecture](https://github.com/sreeharshau/muzero-super-mario-bros/blob/main/MuZero_Arch.jpg)
+![MuZero_Architecture](https://github.com/sreeharshau/muzero-super-mario-bros/blob/main/MuZero_Architecture.jpg)
 
 # How does it hold up against DDQN?
 
